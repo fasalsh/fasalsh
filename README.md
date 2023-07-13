@@ -2,7 +2,7 @@
 
 ##### Welcome to my GitHub,
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Fasal-Official) [![Github](https://img.shields.io/github/followers/Fasal-Official?label=Follow&style=social)](https://github.com/Fasal-Official)
+![](https://visitor-badge.laobi.icu/badge?page_id=iamfasal) [![Github](https://img.shields.io/github/followers/iamfasal?label=Follow&style=social)](https://github.com/iamfasal)
 
 About me:
 ```
@@ -11,7 +11,7 @@ About me:
 
 ### ⚙️ GitHub Analytics
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Fasal-Official&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasal-Official&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=iamfasal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfasal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
 
 ### ⚙️ Connect with Me
 
